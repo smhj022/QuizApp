@@ -1,10 +1,10 @@
-package com.telusko.app;
+package com.quiz.app;
 
-import com.telusko.levels.Easy;
-import com.telusko.levels.Hard;
-import com.telusko.levels.Moderate;
-import com.telusko.model.QuestionLevel;
-import com.telusko.service.QuizService;
+import com.quiz.levels.Easy;
+import com.quiz.levels.Hard;
+import com.quiz.levels.Moderate;
+import com.quiz.model.QuestionLevel;
+import com.quiz.service.QuizService;
 
 import java.util.Scanner;
 

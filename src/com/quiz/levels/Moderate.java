@@ -1,7 +1,7 @@
-package com.telusko.levels;
+package com.quiz.levels;
 
-import com.telusko.model.Question;
-import com.telusko.model.QuestionLevel;
+import com.quiz.model.Question;
+import com.quiz.model.QuestionLevel;
 
 public class Moderate implements QuestionLevel {
 

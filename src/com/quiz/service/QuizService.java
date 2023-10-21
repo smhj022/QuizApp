@@ -1,7 +1,7 @@
-package com.telusko.service;
+package com.quiz.service;
 
-import com.telusko.model.Question;
-import com.telusko.model.QuestionLevel;
+import com.quiz.model.Question;
+import com.quiz.model.QuestionLevel;
 
 public class QuizService {
 

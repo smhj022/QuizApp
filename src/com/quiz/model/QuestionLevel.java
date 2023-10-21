@@ -1,4 +1,4 @@
-package com.telusko.model;
+package com.quiz.model;
 
 import java.util.Objects;
 import java.util.Scanner;
