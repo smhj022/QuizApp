@@ -5,8 +5,7 @@ import com.quiz.model.QuestionLevel;
 
 public class Moderate implements QuestionLevel {
 
-    private int noOfQuestion = 5;
-    Question[] questionList= new Question[noOfQuestion];
+    Question[] questionList= new Question[5];
 
     // Moderate Level Questions
 

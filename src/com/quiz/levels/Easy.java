@@ -5,11 +5,7 @@ import com.quiz.model.QuestionLevel;
 
 public class Easy implements QuestionLevel {
 
-    private int noOfQuestion = 5;
-    Question[] questionList = new Question[noOfQuestion];
-
-
-    //    private int onOFQuestions;
+    Question[] questionList = new Question[5];
     @Override
     public Question[] constructQuestions() {
 
